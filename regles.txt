@@ -1,0 +1,8 @@
+// case 0 = normal (pas de bombe autour)
+// case 1 = une bombe autour de la case
+// case 2 = deux bombes autour de la case
+// case 3 = trois bombes autour de la case
+// case 4 = quatre bombes autour de la case
+// case -1 = une bombe
+
+// grille de 10x10
